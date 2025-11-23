@@ -1,12 +1,9 @@
 # Introduction to Artificial Intelligence
 # MNIST dataset
 # Shallow Neural Network - Problem 2: RMSProp Optimizer
-# Based on Mnist_ShallowNN1.py with Problem 1 modifications:
-#   - 1000 hidden nodes (instead of 100)
-#   - Early stopping disabled (early_stop_patience = 100000)
-#   - ReLU activation function
-#   - RMSProp optimizer (instead of Adam, its basically Adagrad but with a moving average of the gradients, and a decay rate)
+# RMSProp is a variant of Adagrad that uses a moving average of the gradients instead of the sum of the gradients.
 # By Timothy Figueroa and Adrian De Souza
+# Based on Mnist_ShallowNN1.py made by Juan Carlos Rojas
 # Copyright 2025, Texas Tech University - Costa Rica
 
 import numpy as np
