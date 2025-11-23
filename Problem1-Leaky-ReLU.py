@@ -1,7 +1,8 @@
 # Introduction to Artificial Intelligence
 # MNIST dataset
 # Shallow Neural Network
-# By Juan Carlos Rojas
+# By Timothy Figueroa and Adrian De Souza
+# Based on Mnist_ShallowNN1.py made by Juan Carlos Rojas
 # Copyright 2025, Texas Tech University - Costa Rica
 
 import numpy as np
